@@ -1,4 +1,4 @@
-# print("hello chai")
+print("hello chai")
 
 # def decoder(n) :
 #     print(n)
@@ -77,17 +77,3 @@
 # values =["better", "good", "best"]
 # tea_dict = dict(zip(keys, values))
 # print(tea_dict)
-
-
-
-#tuple
-
-tea_tuple = ("ginger", "masala", "cardamom")
-print(tea_tuple)
-print(tea_tuple[1])
-
-# tea_tuple[1] = "mint" #error as tuple is immutable
-for tea in tea_tuple:
-    print(tea)
-
-    
